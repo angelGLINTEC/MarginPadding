@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">padding</string>
+    <string name="tViewStr_NAME">NOMDRE DE CONTACTO</string>
+    <string name="tViewStr_NUMBER">NUMERO DE CONTACTO</string>
+    <string name="btnStr_GUARDAR">GUARDAR</string>
+    <string name="edTxtStr_NAME">Name</string>
+    <string name="btnStr_RECUPERAR">RECUPERAR</string>
+</resources>
